@@ -25,4 +25,3 @@ console.log(cajon1);
 //Null
 
 var sinnada = null;
-ewqee
